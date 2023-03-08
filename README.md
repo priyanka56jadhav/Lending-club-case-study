@@ -68,7 +68,7 @@ The analysis with respect to the charged off loans suggests the following. so th
 
 
 ## Acknowledgements
-This project is a EDA project built for IIT - Banglore + Upgrad PG Course.
+This project is a EDA project built for IIIT - Banglore + Upgrad PG Course.
 
 ## Contact
 Created by github.com/priyanka56jadhav - feel free to contact me!
