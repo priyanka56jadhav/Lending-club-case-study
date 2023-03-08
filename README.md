@@ -18,7 +18,7 @@ When the company receives a loan application, the company has to make a decision
 
 4: Data Analysis
 - Univariate Analysis
-- Segemented Univariate Analysis
+- Segmented Univariate Analysis
 - Bivaraiate/Multivariate Analysis
 
 5: Observations and Recommendations
