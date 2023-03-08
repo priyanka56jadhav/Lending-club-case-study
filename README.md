@@ -48,11 +48,10 @@ The analysis with respect to the charged off loans suggests the following. so th
 - When the purpose is 'debt_consolidation'
 - Grade is 'B'
 - Total grade of 'B5' level.
-- The above analysis with respect to the charged off loans. There is a more probability of defaulting when :
 - Applicants taking loan for 'home improvement' and have income of 60k -70k
 - Applicants whose home ownership is 'MORTGAGE and have income of 60-70k
 - Applicants who receive interest at the rate of 21-24% and have an income of 70k-80k
-- Applicants who have taken a loan in the range 30k - 35k and are charged interest rate of 15-17.5 %
+- Applicants who have taken a loan in the range 30k - 35k and are charged interest rate of 15-17.5%
 - Applicants who have taken a loan for small business and the loan amount is greater than 14k
 - Applicants whose home ownership is 'MORTGAGE and have loan of 14-16k
 - When grade is F and loan amount is between 15k-20k
